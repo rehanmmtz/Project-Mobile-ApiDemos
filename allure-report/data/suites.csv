@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","212","Buka Aplikasi","Mobile Demo APIS","Wed Nov 12 00:57:44 WIB 2025","passed","Wed Nov 12 00:57:44 WIB 2025","","","",""
+"","8564","List Dialog","Mobile Demo APIS","Wed Nov 12 00:57:58 WIB 2025","passed","Wed Nov 12 00:58:06 WIB 2025","","","",""
+"","6126","Progress Dialog","Mobile Demo APIS","Wed Nov 12 00:58:07 WIB 2025","passed","Wed Nov 12 00:58:13 WIB 2025","","","",""
+"","7050","Test Text Entry Dialog","Mobile Demo APIS","Wed Nov 12 00:57:44 WIB 2025","passed","Wed Nov 12 00:57:51 WIB 2025","","","",""
+"","4615","Test ok cancel dialog","Mobile Demo APIS","Wed Nov 12 00:57:52 WIB 2025","passed","Wed Nov 12 00:57:57 WIB 2025","","","",""
